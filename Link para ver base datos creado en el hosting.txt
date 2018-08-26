@@ -1,7 +1,15 @@
+___________________________________________________________
+
+en este link podra ver la base de datos creada con los procedimiento indicados del proyecto
+
 https://member3-1.smarterasp.net/account/loginform?go=1
 
 usuario hosting:
 umg390
 
-Contraseña:
+ContraseÃ±a:
 Enero.2018
+_______________________________________________
+El archivo:
+web.bak es un copia de seguridad de la base de datos creada en SQL server 
+la cual se puede restaurar...
